@@ -1,0 +1,4 @@
+﻿  Reversi.c
+f:\programming\ort hermelin\c programming\alma lessons\reversi\reversi\reversi.h(18): warning C4005: 'RESET': macro redefinition
+  f:\programming\ort hermelin\c programming\alma lessons\reversi\reversi\reversi.h(8): note: see previous definition of 'RESET'
+  Reversi.vcxproj -> F:\Programming\ORT Hermelin\C Programming\ALMA Lessons\Reversi\Debug\Reversi.exe
